@@ -24,4 +24,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "BSI_SoSe26_SL_Kotlin-Unit5-6"
 include(":app")
- 
+include(":racetracker")

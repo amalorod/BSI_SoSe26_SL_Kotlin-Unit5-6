@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="title_1">The History of Jazz</string>
+    <string name="author_2">Miles Davis</string>
+    <string name="author_1">Ted Gioia</string>
+    <string name="title_2">Miles Davis: Autobiography</string>
+</resources>

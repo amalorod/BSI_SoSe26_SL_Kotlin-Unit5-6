@@ -1,0 +1,3 @@
+[submodule "basic-android-kotlin-compose-training-mars-photos"]
+	path = basic-android-kotlin-compose-training-mars-photos
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-mars-photos.git

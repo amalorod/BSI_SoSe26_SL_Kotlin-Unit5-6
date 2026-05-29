@@ -4,3 +4,9 @@
 [submodule "sqlbasics"]
 	path = sqlbasics
 	url = https://github.com/google-developer-training/android-basics-kotlin-sql-basics-app.git
+[submodule "basic-android-kotlin-compose-training-inventory-app"]
+	path = basic-android-kotlin-compose-training-inventory-app
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-inventory-app.git
+[submodule "inventoryapp"]
+	path = inventoryapp
+	url = https://github.com/google-developer-training/basic-android-kotlin-compose-training-inventory-app.git

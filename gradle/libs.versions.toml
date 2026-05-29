@@ -15,6 +15,7 @@ kotlinxSerializationJson = "1.7.3"
 okhttp = "4.12.0"
 coil = "2.7.0"
 gson = "2.14.0"
+ksp = "2.2.10-2.0.2"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -44,5 +45,9 @@ retrofit-converter-gson = { group = "com.squareup.retrofit2", name = "converter-
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
+android-library = { id = "com.android.library", version.ref = "agp" }
+kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 kotlin-compose = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
 kotlin-serialization = { id = "org.jetbrains.kotlin.plugin.serialization", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+

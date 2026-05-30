@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Flight Search</string>
+<string name="search_placeholder">Abflughafen eingeben (Name oder IATA)</string>
+<string name="favorite_routes">Favorisierte Routen</string>
+<string name="depart">Abflug</string>
+<string name="arrive">Ankunft</string>
+<string name="no_favorites">Noch keine Favoriten gespeichert.</string>
+<string name="search_results">Flüge ab %1$s</string>
+</resources>
